@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-30T18:30:08+08:00",
-  "updated_at_unix": 1777545008,
-  "version_tag": "20260430183002",
+  "updated_at": "2026-04-30T19:30:08+08:00",
+  "updated_at_unix": 1777548608,
+  "version_tag": "20260430193002",
   "branch": "main",
   "changed_files": [
     "sina_news_txt/index.html"
@@ -9,6 +9,6 @@
   "current_month_file": "sina_news_txt/2026-04.txt",
   "urls": {
     "jsdelivr": "https://cdn.jsdelivr.net/gh/peter678007/json01@main/sina_news_txt/2026-04.txt",
-    "raw_main": "https://raw.githubusercontent.com/peter678007/json01/main/sina_news_txt/2026-04.txt?v=20260430183002"
+    "raw_main": "https://raw.githubusercontent.com/peter678007/json01/main/sina_news_txt/2026-04.txt?v=20260430193002"
   }
 }
